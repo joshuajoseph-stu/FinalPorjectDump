@@ -19,7 +19,11 @@ public class FinalProject4Application {
 //	username: sa
 //	password: password
 	
-//	use http://localhost:8181/home to access home page and stuff
+//	
+//	localhost:8181/api/whatever to access api end (in controller files) 
+//	localhost:8181/whatever to access html pages (in src/main/resources/templates)
+//	so use http://localhost:8181/home to access home page and stuff
+		
 	
 	
 }
